@@ -5,8 +5,8 @@ def nyc_pigeon_organizer(data)
   v.each do |x, y|
   array += y
   hash = Hash[array.map {|x| [x, nil]}]
-  
-  
+
+
 end
 hash["Theo"] = {color: ["purple", "grey"], gender: ["male"], lives: ["Subway"]}
 hash["Petter Jr."] = {color: ["purple", "grey"], gender: ["male"], lives: ["Library"]}
@@ -16,8 +16,5 @@ hash["Queenie"] = {color: ["white", "brown"], gender: ["female"], lives: ["Subwa
 hash["Andrew"] = {color: ["white"], gender: ["male"], lives: ["City Hall"]}
 hash["Alex"] = {color: ["white", "brown"], gender: ["male"], lives: ["Central Park"]}
 return hash
-end 
 end
-
-
-
+end
