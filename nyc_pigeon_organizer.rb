@@ -15,6 +15,6 @@ hash["Ms. K"] = {color: ["grey", "white"], gender: ["female"], lives: ["Central 
 hash["Queenie"] = {color: ["white", "brown"], gender: ["female"], lives: ["Subway"]}
 hash["Andrew"] = {color: ["white"], gender: ["male"], lives: ["City Hall"]}
 hash["Alex"] = {color: ["white", "brown"], gender: ["male"], lives: ["Central Park"]}
-return hash
 end
+return hash
 end
