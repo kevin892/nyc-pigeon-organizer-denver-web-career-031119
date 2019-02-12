@@ -9,7 +9,7 @@ def nyc_pigeon_organizer(data)
 
 end
 hash["Theo"] = {color: ["purple", "grey"], gender: ["male"], lives: ["Subway"]}
-hash["Petter Jr."] = {color: ["purple", "grey"], gender: ["male"], lives: ["Library"]}
+hash["Peter Jr."] = {color: ["purple", "grey"], gender: ["male"], lives: ["Library"]}
 hash["Lucky"] = {color: ["purple", "grey"], gender: ["male"], lives: ["Central Park"]}
 hash["Ms. K"] = {color: ["grey", "white"], gender: ["female"], lives: ["Central Park"]}
 hash["Queenie"] = {color: ["white", "brown"], gender: ["female"], lives: ["Subway"]}
